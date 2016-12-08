@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    var topics = ["300 movie", "spartacus", "ben-hur", "Cyclops", "rome"];
+    var topics = ["300 movie", "spartacus", "ben-hur", "Cyclops", "gladiator"];
     buttonCreation();
 
     function buttonCreation() {
